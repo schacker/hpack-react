@@ -1,0 +1,7 @@
+{{extend './src/assets/views/base.art'}}
+
+{{block 'title'}}hpack cli react seed project{{/block}}
+
+{{block 'content'}}
+<div id='app'></div>
+{{/block}}

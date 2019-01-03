@@ -1,0 +1,6 @@
+dist
+.idea/
+.DS_Store
+.vscode/
+node_modules
+.gitlab-ci.yml
